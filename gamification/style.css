@@ -1,0 +1,26 @@
+* {
+	padding: 0;
+	margin: 0;
+	border: none;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+
+body {
+	background: lightgray;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h1 {
+	font-size: 1.5rem;
+	margin-top: .5rem;
+}
+canvas {
+	margin: .5rem;
+	border: 1px solid black;
+}
+
+p {
+	font-size: 1rem;
+}
